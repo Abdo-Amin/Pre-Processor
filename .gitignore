@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+files/temp_files/
+files/chroma_db/
